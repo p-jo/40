@@ -5,7 +5,7 @@ layout: global
 
 
 
-# ![](/assets/img/custom/pirate.gif) Pirathuset
+# ![](assets/img/custom/pirate.gif) Pirathuset
 
 ---
 Festen blir i pirathuset på stigbergstorget, aka Gatenhielmska huset. Från kl 17 är det lek i trädgården. Om du vill klä ut dig till pirat går det bra. Piratöl finns och all alkohol du tar med dig kollektiviseras pirate-style.
@@ -16,20 +16,20 @@ Källa [Wikipedia](https://sv.wikipedia.org/wiki/Gathenhielmska_huset)
 
 <center>
   <!-- TRIPLE MC HAMMER -->
-  <img src="/assets/img/test/mchammer.gif">&nbsp;&nbsp;
-  <img src="/assets/img/test/mchammer.gif">&nbsp;&nbsp;
-  <img src="/assets/img/test/mchammer.gif">
+  <img src="{{ site.baseurl }}/assets/img/test/mchammer.gif">&nbsp;&nbsp;
+  <img src="{{ site.baseurl }}/assets/img/test/mchammer.gif">&nbsp;&nbsp;
+  <img src="{{ site.baseurl }}/assets/img/test/mchammer.gif">
 </center>
 
 # Musik
 ---
-<center><img src="/assets/img/test/construction.gif"></center>
+<center><img src="{{ site.baseurl }}/assets/img/test/construction.gif"></center>
 
-![](/assets/img/custom/napster.bmp)[Fyll på spellistan, klicka här](https://open.spotify.com/playlist/279mvn1ms0dFP47o0bfdLx?si=8vRNIbylTDWcpCQ-OTKMaw)![](/assets/img/custom/napster.bmp)
+![](assets/img/custom/napster.bmp)[Fyll på spellistan, klicka här](https://open.spotify.com/playlist/279mvn1ms0dFP47o0bfdLx?si=8vRNIbylTDWcpCQ-OTKMaw)![](assets/img/custom/napster.bmp)
 
 ...
 
 
 # Livestream
 ---
-![](/assets/img/test/hacker.gif) Följ festen på din PC, surfa in på [live.p-jo.se/40](https://live.p-jo.se/40)
+![](assets/img/test/hacker.gif) Följ festen på din PC, surfa in på [live.p-jo.se/40](https://live.p-jo.se/40)
