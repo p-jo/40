@@ -1,16 +1,12 @@
 # Site settings
-title: Site name
+title: Välkommen på min 40årsfest
 
-email: support@rabash.se
 description: ""
 baseurl: ""
-twitter_username: rabashwebb
 github_username:  p-jo
 
 # Build settings
 markdown: kramdown
-relative_permalinks: true
-permalink: pretty
 
 # Defaults
 defaults:
@@ -22,30 +18,10 @@ defaults:
       layout: "article"
   -
     scope:
-      path: "event"
-      type: "posts"
-    values:
-      layout: "event"
-  -
-    scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-
-# Multilingual settings
-# See https://github.com/tristen/multilingual
-# permalink: /:categories/:title
-# languages:
-#   - name: 'English'
-#     key: 'en'
-#   - name: 'Español'
-#     key: 'es'
-
-# Prose settings
-# See https://github.com/prose/prose/wiki
-prose:
-  rooturl: '_posts'
 
 # Settings
 exclude:  [".sass-cache", "bower_components"]
