@@ -5,10 +5,10 @@ layout: global
 
 
 
-# Pirathuset
+# ![](/assets/img/custom/pirate.gif) Pirathuset
 
 ---
-![](/assets/img/custom/pirate.gif) Festen blir i pirathuset på stigbergstorget, aka Gatenhielmska huset. Från kl 17 är det lek i trädgården. Om du vill klä ut dig till pirat går det bra. Piratöl finns och all alkohol du tar med dig kollektiviseras pirate-style.
+Festen blir i pirathuset på stigbergstorget, aka Gatenhielmska huset. Från kl 17 är det lek i trädgården. Om du vill klä ut dig till pirat går det bra. Piratöl finns och all alkohol du tar med dig kollektiviseras pirate-style.
 
 > Lasse i gatan var pirat åt Karl XII och fick Göteborgs hamn och marken runt Stigbergstorget som tack av kungen. Där byggde hans släkt pirathuset i mitten av 1700-talet.
 
