@@ -14,6 +14,10 @@ Festen blir i pirathuset på stigbergstorget, aka Gatenhielmska huset. Från kl 
 
 Källa [Wikipedia](https://sv.wikipedia.org/wiki/Gathenhielmska_huset)
 
+> Piratskeppet utgjorde ett egenartat egalitärt samhälle där kaptenen valdes av manskapet, spriten fördelades jämnt och människor av olika ras, klass, nationalitet och kön arbetade sida vid sida. 
+
+Pirater, Marcus Rediker 2007
+
 <center>
   <!-- TRIPLE MC HAMMER -->
   <img src="{{ site.baseurl }}/assets/img/test/mchammer.gif">&nbsp;&nbsp;
